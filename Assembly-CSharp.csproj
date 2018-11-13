@@ -63,7 +63,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CollectibleMovement.cs" />
     <Compile Include="Assets\Scripts\Destructor.cs" />
+    <Compile Include="Assets\Scripts\GateMovement.cs" />
     <Compile Include="Assets\Scripts\RandomSpawner.cs" />
+    <Compile Include="Assets\Simple UI\Samples\IconPreview.cs" />
+    <None Include="Assets\Simple UI\Fonts\OFL.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/team-debole/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
