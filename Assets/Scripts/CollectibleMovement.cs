@@ -42,6 +42,7 @@ public class CollectibleMovement : MonoBehaviour
                     i.transform.position = tmp;
                 }
             }
+            Destroy(this.gameObject);
         }
 
         else
@@ -62,6 +63,7 @@ public class CollectibleMovement : MonoBehaviour
                     i.transform.position = tmp;
                 }
             }
+            Destroy(this.gameObject);
         }
     }
 }
