@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class GateMovement : MonoBehaviour
 {
-    //public bool rightGate;
-    //public bool leftGate;
     public float movementSpeed;
     // Use this for initialization
     void Start()
@@ -16,14 +14,6 @@ public class GateMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //if(leftGate)
-        //{
-            this.transform.Translate(Vector2.left * movementSpeed);
-        //}
-
-        //else
-        //{
-        //    this.transform.Translate(Vector2.left * movementSpeed);
-        //}
+        this.transform.Translate(Vector2.left * movementSpeed);
     }
 }

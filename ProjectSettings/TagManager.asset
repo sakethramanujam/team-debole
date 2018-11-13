@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - collectible
+  - BoyGates
+  - GirlGates
   layers:
   - Default
   - TransparentFX
