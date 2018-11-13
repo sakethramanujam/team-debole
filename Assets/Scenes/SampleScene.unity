@@ -735,6 +735,18 @@ Prefab:
       propertyPath: m_Name
       value: SpawnPoint (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleBoy
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: a4c371a6a69faf04a82dbd6e6cab821a,
+        type: 2}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleGirl
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: ac316afbc48486a41b3fc2f071fabfb9,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74b9543f6601ef649bcb68e718822211, type: 2}
   m_IsPrefabAsset: 0
@@ -859,6 +871,18 @@ Prefab:
       propertyPath: m_Name
       value: SpawnPoint (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleBoy
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: a4c371a6a69faf04a82dbd6e6cab821a,
+        type: 2}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleGirl
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: ac316afbc48486a41b3fc2f071fabfb9,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74b9543f6601ef649bcb68e718822211, type: 2}
   m_IsPrefabAsset: 0
@@ -997,6 +1021,18 @@ Prefab:
       propertyPath: m_Name
       value: SpawnPoint (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleBoy
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: a4c371a6a69faf04a82dbd6e6cab821a,
+        type: 2}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleGirl
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: ac316afbc48486a41b3fc2f071fabfb9,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74b9543f6601ef649bcb68e718822211, type: 2}
   m_IsPrefabAsset: 0
@@ -1188,6 +1224,18 @@ Prefab:
       propertyPath: m_Name
       value: SpawnPoint (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleBoy
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: a4c371a6a69faf04a82dbd6e6cab821a,
+        type: 2}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleGirl
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: ac316afbc48486a41b3fc2f071fabfb9,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74b9543f6601ef649bcb68e718822211, type: 2}
   m_IsPrefabAsset: 0
@@ -1246,6 +1294,18 @@ Prefab:
       propertyPath: startTime
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleBoy
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: a4c371a6a69faf04a82dbd6e6cab821a,
+        type: 2}
+    - target: {fileID: 114763773590018076, guid: 74b9543f6601ef649bcb68e718822211,
+        type: 2}
+      propertyPath: collectibleGirl
+      value: 
+      objectReference: {fileID: 1762939218944740, guid: ac316afbc48486a41b3fc2f071fabfb9,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74b9543f6601ef649bcb68e718822211, type: 2}
   m_IsPrefabAsset: 0

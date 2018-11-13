@@ -19,7 +19,7 @@ public class Destructor : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag=="collectible")
+        if(collision.gameObject.tag=="collectibleBoy"|| collision.gameObject.tag == "collectibleGirl")
         {
             Destroy(collision.gameObject);
         }

@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class RandomSpawner : MonoBehaviour
 {
-    public GameObject collectible;
+    public GameObject collectibleBoy;
+    public GameObject collectibleGirl;
     public float repeatRate;
     public float startTime;
+    float randomNumber;
     // Use this for initialization
     void Start()
     {
@@ -21,6 +23,15 @@ public class RandomSpawner : MonoBehaviour
 
     public void InstantiateCollectible()
     {
-        Instantiate(collectible,this.gameObject.transform);
+        randomNumber = Random.Range(0f,100f);
+        if(randomNumber<50)
+        {
+            Instantiate(collectibleBoy, this.gameObject.transform);
+        }
+
+        else
+        {
+            Instantiate(collectibleGirl, this.gameObject.transform);
+        }
     }
 }
