@@ -8,6 +8,7 @@ TagManager:
   - GirlGates
   - collectibleBoy
   - collectibleGirl
+  - AdderTrigger
   layers:
   - Default
   - TransparentFX
